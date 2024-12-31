@@ -1,1 +1,0 @@
-A collection of classes and methods that provide database utility functions and helper functionalities for ZettaStor DBS.
